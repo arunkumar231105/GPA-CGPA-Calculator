@@ -1,6 +1,6 @@
 # GPA & CGPA Calculator 🚀  
 
-A minimalist tool built for [Your University Name] students to calculate GPA and CGPA accurately, with real-time updates and zero ads!  
+A minimalist tool built for szabist students to calculate GPA and CGPA accurately, with real-time updates and zero ads!  
 
 **[🌐 Live Demo](https://arun-gpa-calculator.vercel.app/)**  
 
