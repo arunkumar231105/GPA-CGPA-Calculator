@@ -31,7 +31,7 @@ A minimalist tool built for [Your University Name] students to calculate GPA and
 
 ## Upcoming Fixes & Features 🔧  
 - **📚 Backlog Integration**: Calculate CGPA with pending/re-exam subjects.  
-- **🎯 Rounding Errors**: Fix for decimals (e.g., `8.99 → 9`).  
+- **🎯 Rounding Errors**: Fix for decimals (e.g., `58 → F`).  
 - **⚖️ Subject Credit Mismatch**: Resolve discrepancies in course credits.  
 
 *Working on these ASAP!*  
@@ -39,7 +39,7 @@ A minimalist tool built for [Your University Name] students to calculate GPA and
 ---
 
 ## Tech Stack 💻  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript , TypeScript
 - **Hosting**: Vercel  
 
 ---
